@@ -6,4 +6,9 @@
   width: auto;
   flex-grow: 1;
   margin-right: 3px;
+  margin-top: 20px;
+}
+
+.search-input {
+  margin-top: 20px;
 }
